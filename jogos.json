@@ -1,54 +1,26 @@
 {
-    "name": "Jójos",
-    "subtitle": "Meus jogos e aplicativos",
-    "description": "Repositório de jogos pessoais para AltStore.",
-    "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png",
-    "website": "https://github.com/apollosn/jogos",
-    "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.clue.seuapp",
-        "com.monopoly.seuapp"
-    ],
-    "apps": [
-        {
-            "name": "Clue: Classic Edition",
-            "bundleIdentifier": "com.clue.seuapp",
-            "marketplaceID": "0123456789",
-            "developerName": "Apollito",
-            "subtitle": "Jogo de mistério clássico",
-            "localizedDescription": "Jogo Clue: Classic Edition",
-            "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png",
-            "tintColor": "#5CA399",
-            "versions": [
-                {
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2026-10-25T00:00:00-03:00",
-                    "size": 100000000,
-                    "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/Cluedo_2.7.0_ios_10.0.ipa",
-                    "localizedDescription": "Versão inicial"
-                }
-            ]
-        },
-        {
-            "name": "MONOPOLY",
-            "bundleIdentifier": "com.monopoly.seuapp",
-            "marketplaceID": "9876543210",
-            "developerName": "Apollito",
-            "subtitle": "O clássico jogo de tabuleiro",
-            "localizedDescription": "Jogo MONOPOLY",
-            "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/monopoly.png",
-            "tintColor": "#3660A2",
-            "versions": [
-                {
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2026-10-25T00:00:00-03:00",
-                    "size": 100000000,
-                    "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/MONOPOLY_.The.Board.Game_1.15.17_15.2_LeTi.ipa",
-                    "localizedDescription": "Versão inicial"
-                }
-            ]
-        }
-    ]
+  "name": "Jójos",
+  "identifier": "com.apollito.jojos",
+  "apps": [
+    {
+      "name": "Clue: Classic Edition",
+      "bundleIdentifier": "com.clue.seuapp",
+      "developerName": "Apollito",
+      "version": "1.0",
+      "versionDate": "2026-10-25",
+      "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/Cluedo_2.7.0_ios_10.0.ipa",
+      "localizedDescription": "Jogo Clue: Classic Edition",
+      "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png"
+    },
+    {
+      "name": "MONOPOLY",
+      "bundleIdentifier": "com.monopoly.seuapp",
+      "developerName": "Apollito",
+      "version": "1.0",
+      "versionDate": "2026-10-25",
+      "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/MONOPOLY_.The.Board.Game_1.15.17_15.2_LeTi.ipa",
+      "localizedDescription": "Jogo MONOPOLY",
+      "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/monopoly.png"
+    }
+  ]
 }
