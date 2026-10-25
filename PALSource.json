@@ -3,7 +3,7 @@
   "identifier": "com.apollito.jojos",
   "apps": [
     {
-      "name": "Clue: Classic Edition",
+      "name": "Clue Classic Edition",
       "bundleIdentifier": "com.clue.seuapp",
       "developerName": "Apollito",
       "version": "1.0",
