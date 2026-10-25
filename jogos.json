@@ -6,23 +6,31 @@
       "name": "Clue: Classic Edition",
       "bundleIdentifier": "com.clue.seuapp",
       "developerName": "Apollito",
-      "version": "1.0",
-      "versionDate": "2026-10-25",
-      "size": 612459520,
-      "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/Cluedo_2.7.0_ios_10.0.ipa",
       "localizedDescription": "Jogo Clue: Classic Edition",
-      "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png"
+      "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-25",
+          "size": 612459520,
+          "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/Cluedo_2.7.0_ios_10.0.ipa"
+        }
+      ]
     },
     {
       "name": "MONOPOLY",
       "bundleIdentifier": "com.monopoly.seuapp",
       "developerName": "Apollito",
-      "version": "1.0",
-      "versionDate": "2026-10-25",
-      "size": 678316032,
-      "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/MONOPOLY_.The.Board.Game_1.15.17_15.2_LeTi.ipa",
       "localizedDescription": "Jogo MONOPOLY",
-      "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/monopoly.png"
+      "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/monopoly.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-25",
+          "size": 678316032,
+          "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/MONOPOLY_.The.Board.Game_1.15.17_15.2_LeTi.ipa"
+        }
+      ]
     }
   ]
 }
