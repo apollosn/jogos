@@ -5,6 +5,7 @@
     {
       "name": "Clue: Classic Edition",
       "bundleIdentifier": "com.clue.seuapp",
+      "marketplaceID": "0123456789",
       "developerName": "Apollito",
       "localizedDescription": "Jogo Clue: Classic Edition",
       "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png",
@@ -20,6 +21,7 @@
     {
       "name": "MONOPOLY",
       "bundleIdentifier": "com.monopoly.seuapp",
+      "marketplaceID": "9876543210",
       "developerName": "Apollito",
       "localizedDescription": "Jogo MONOPOLY",
       "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/monopoly.png",
