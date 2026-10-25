@@ -13,6 +13,7 @@
         {
             "name": "Clue: Classic Edition",
             "bundleIdentifier": "com.clue.seuapp",
+            "marketplaceID": "0123456789",
             "developerName": "Apollito",
             "subtitle": "Jogo de mistério clássico",
             "localizedDescription": "Jogo Clue: Classic Edition",
@@ -32,6 +33,7 @@
         {
             "name": "MONOPOLY",
             "bundleIdentifier": "com.monopoly.seuapp",
+            "marketplaceID": "9876543210",
             "developerName": "Apollito",
             "subtitle": "O clássico jogo de tabuleiro",
             "localizedDescription": "Jogo MONOPOLY",
