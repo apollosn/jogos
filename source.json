@@ -7,18 +7,16 @@
       "bundleIdentifier": "com.clue.seuapp",
       "developerName": "Apollito",
       "version": "1.0",
-      "downloadURL": "COLE_O_LINK_DIRETO_DO_IPA_AQUI",
+      "downloadURL": "https://drive.google.com/file/d/1B7AfDS6DqeM_NRxvyqRQC43YtXHCTzxM/view?usp=drivesdk",
       "localizedDescription": "Jogo Clue: Classic Edition",
-      "iconURL": "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/icone-clue.png"
     },
     {
       "name": "MONOPOLY",
       "bundleIdentifier": "com.monopoly.seuapp",
       "developerName": "Apollito",
       "version": "1.0",
-      "downloadURL": "COLE_O_LINK_DIRETO_DO_IPA_AQUI",
+      "downloadURL": "https://drive.google.com/file/d/1OJmLfmHPg4OMebNyEojO_E15yyZI6dp2/view?usp=drivesdk",
       "localizedDescription": "Jogo MONOPOLY",
-      "iconURL": "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/icone-monopoly.png"
     }
   ]
 }
