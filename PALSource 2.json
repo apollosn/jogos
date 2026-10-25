@@ -1,0 +1,53 @@
+{
+    "name": "Jójos",
+    "subtitle": "Meus jogos e aplicativos",
+    "description": "Repositório de jogos pessoais para AltStore.",
+    "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/clue.png",
+    "headerURL": "",
+    "website": "https://github.com/apollosn/jogos",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.clue.seuapp",
+        "com.monopoly.seuapp"
+    ],
+    "apps": [
+        {
+            "name": "Clue: Classic Edition",
+            "bundleIdentifier": "com.clue.seuapp",
+            "developerName": "Apollito",
+            "subtitle": "Jogo de mistério clássico",
+            "localizedDescription": "Jogo Clue: Classic Edition",
+            "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/IMG_0516.jpeg",
+            "tintColor": "#5CA399",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-10-25T00:00:00-03:00",
+                    "size": 100000000,
+                    "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/Cluedo_2.7.0_ios_10.0.ipa",
+                    "localizedDescription": "Versão inicial"
+                }
+            ]
+        },
+        {
+            "name": "MONOPOLY",
+            "bundleIdentifier": "com.monopoly.seuapp",
+            "developerName": "Apollito",
+            "subtitle": "O clássico jogo de tabuleiro",
+            "localizedDescription": "Jogo MONOPOLY",
+            "iconURL": "https://raw.githubusercontent.com/apollosn/jogos/main/IMG_0517.jpeg",
+            "tintColor": "#3660A2",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-10-25T00:00:00-03:00",
+                    "size": 100000000,
+                    "downloadURL": "https://github.com/apollosn/jogos/releases/download/1.0.0/MONOPOLY_.The.Board.Game_1.15.17_15.2_LeTi.ipa",
+                    "localizedDescription": "Versão inicial"
+                }
+            ]
+        }
+    ]
+}
